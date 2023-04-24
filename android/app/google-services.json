@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022039688520",
+    "project_id": "fir-getx-app-a3e1a",
+    "storage_bucket": "fir-getx-app-a3e1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022039688520:android:bc15b6f5c9840ee365df7d",
+        "android_client_info": {
+          "package_name": "com.example.shopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022039688520-c7sle34f87uiptau2omjn5q4li2r90fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeeQgrEEBenHnXqFmD6tV_4cYA1bNh5F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022039688520-c7sle34f87uiptau2omjn5q4li2r90fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
